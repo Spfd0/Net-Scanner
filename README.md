@@ -1,5 +1,9 @@
 # Net Scanner
 
+<p align="center">
+    <img width="200" src="https://i.ibb.co/qBGFM1H/netscan.jpg" alt="Material Bread logo">
+</p>
+
 ## Description
 
 Net Scanner is an iOS shortcut that allows you to quickly scan and view details about your local network. This tool presents a clean and user-friendly interface, displaying useful network information at a glance.
